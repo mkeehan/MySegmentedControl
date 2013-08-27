@@ -1,6 +1,5 @@
 //
 //  FancySegmentedControl.h
-//  PDSPlaceOrder
 //
 //  Created by Megan Keehan on 8/26/13.
 //
